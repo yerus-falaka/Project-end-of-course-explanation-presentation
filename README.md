@@ -2,7 +2,9 @@
 
 ברוכים הבאים לריפוזיטורי של פרויקט ההסבר!
 
-🎥 [לצפייה בסרטון ביוטיוב](https://youtu.be/ts-16AYPP38)
+🎥 [לצפייה בסרטון ביוטיוב]
+https://youtu.be/tS-l6AYPP38?si=9bVlbIjV55NHWCjn
+
 
 
 בסרטון זה אני מציגה את עיקרי הפרויקט, כולל מטרות, אלגוריתמים ודרך הפתרון.
